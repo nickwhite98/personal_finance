@@ -1,0 +1,11 @@
+Personal Finanace app
+
+
+Backend:
+
+    Flask python API
+    Sqlite3 database
+
+Frontend:
+    React?
+
